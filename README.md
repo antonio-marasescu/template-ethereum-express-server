@@ -1,2 +1,2 @@
-# template-ethereum-express-server
-A small template for an ethereum express server
+# Ethereum Express Server Template
+A small template for an Ethereum express server using Truffle for contract deployment
